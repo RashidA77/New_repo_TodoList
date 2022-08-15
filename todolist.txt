@@ -1,1 +1,2 @@
- MY TO DO LIST: A. Write an article B.Code C.Study Books D.Attend classes on time E. Visit Aunt F.Apply for remote jobs. a small detour about GitHub
+ MY TO DO LIST: 1. Write an article 2.Code 3.Study Books 4.Attend classes on time 5. Visit Aunt 6.Apply for remote jobs 7. Practice code
+ 
